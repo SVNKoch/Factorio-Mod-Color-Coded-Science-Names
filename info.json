@@ -1,10 +1,10 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "color-coded-science-names",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "Color Coded Science Names",
+  "author": "SVNKoch",
+  "homepage": "https://github.com/SVNKoch/factorio-mod-color-coded-science-names",
+  "description": "Renames science packs so that their color is in the name and not their purpose",
   "factorio_version": "1.1",
   "dependencies": [
     "base"
